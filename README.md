@@ -6,7 +6,7 @@
 - 👯 I'm more willing to collaborate on a project on building full stack websites and web apps using React
 - 🔧 Passionate about turning ideas into reality.<br>
 - 💬 Ask me about landing page designs, App Designs, O.S and Software updates and installation.<br>
-- 📫 How to reach me : otienod228@gmail.com.<br>
+- 📫 How to reach me : oluoch954@gmail.com.<br>
 - 🔭 Currently learning react and building fullstack Webpages with React as a framework.<br>
 
 😄 Descriptive:<br>
